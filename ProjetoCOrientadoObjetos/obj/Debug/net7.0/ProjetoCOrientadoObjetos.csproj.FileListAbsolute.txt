@@ -1,0 +1,15 @@
+D:\Área de trabalho\Estudos\ProjetosTI\ProjetoCOrientadoObjetos\bin\Debug\net7.0\ProjetoCOrientadoObjetos.exe
+D:\Área de trabalho\Estudos\ProjetosTI\ProjetoCOrientadoObjetos\bin\Debug\net7.0\ProjetoCOrientadoObjetos.deps.json
+D:\Área de trabalho\Estudos\ProjetosTI\ProjetoCOrientadoObjetos\bin\Debug\net7.0\ProjetoCOrientadoObjetos.runtimeconfig.json
+D:\Área de trabalho\Estudos\ProjetosTI\ProjetoCOrientadoObjetos\bin\Debug\net7.0\ProjetoCOrientadoObjetos.dll
+D:\Área de trabalho\Estudos\ProjetosTI\ProjetoCOrientadoObjetos\bin\Debug\net7.0\ProjetoCOrientadoObjetos.pdb
+D:\Área de trabalho\Estudos\ProjetosTI\ProjetoCOrientadoObjetos\obj\Debug\net7.0\ProjetoCOrientadoObjetos.csproj.AssemblyReference.cache
+D:\Área de trabalho\Estudos\ProjetosTI\ProjetoCOrientadoObjetos\obj\Debug\net7.0\ProjetoCOrientadoObjetos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Área de trabalho\Estudos\ProjetosTI\ProjetoCOrientadoObjetos\obj\Debug\net7.0\ProjetoCOrientadoObjetos.AssemblyInfoInputs.cache
+D:\Área de trabalho\Estudos\ProjetosTI\ProjetoCOrientadoObjetos\obj\Debug\net7.0\ProjetoCOrientadoObjetos.AssemblyInfo.cs
+D:\Área de trabalho\Estudos\ProjetosTI\ProjetoCOrientadoObjetos\obj\Debug\net7.0\ProjetoCOrientadoObjetos.csproj.CoreCompileInputs.cache
+D:\Área de trabalho\Estudos\ProjetosTI\ProjetoCOrientadoObjetos\obj\Debug\net7.0\ProjetoCOrientadoObjetos.dll
+D:\Área de trabalho\Estudos\ProjetosTI\ProjetoCOrientadoObjetos\obj\Debug\net7.0\refint\ProjetoCOrientadoObjetos.dll
+D:\Área de trabalho\Estudos\ProjetosTI\ProjetoCOrientadoObjetos\obj\Debug\net7.0\ProjetoCOrientadoObjetos.pdb
+D:\Área de trabalho\Estudos\ProjetosTI\ProjetoCOrientadoObjetos\obj\Debug\net7.0\ProjetoCOrientadoObjetos.genruntimeconfig.cache
+D:\Área de trabalho\Estudos\ProjetosTI\ProjetoCOrientadoObjetos\obj\Debug\net7.0\ref\ProjetoCOrientadoObjetos.dll

@@ -1,0 +1,15 @@
+D:\Área de trabalho\Estudos\ProjetosTI\CursoCSharpOO\ExercAula71\bin\Debug\net7.0\ExercAula71.exe
+D:\Área de trabalho\Estudos\ProjetosTI\CursoCSharpOO\ExercAula71\bin\Debug\net7.0\ExercAula71.deps.json
+D:\Área de trabalho\Estudos\ProjetosTI\CursoCSharpOO\ExercAula71\bin\Debug\net7.0\ExercAula71.runtimeconfig.json
+D:\Área de trabalho\Estudos\ProjetosTI\CursoCSharpOO\ExercAula71\bin\Debug\net7.0\ExercAula71.dll
+D:\Área de trabalho\Estudos\ProjetosTI\CursoCSharpOO\ExercAula71\bin\Debug\net7.0\ExercAula71.pdb
+D:\Área de trabalho\Estudos\ProjetosTI\CursoCSharpOO\ExercAula71\obj\Debug\net7.0\ExercAula71.csproj.AssemblyReference.cache
+D:\Área de trabalho\Estudos\ProjetosTI\CursoCSharpOO\ExercAula71\obj\Debug\net7.0\ExercAula71.GeneratedMSBuildEditorConfig.editorconfig
+D:\Área de trabalho\Estudos\ProjetosTI\CursoCSharpOO\ExercAula71\obj\Debug\net7.0\ExercAula71.AssemblyInfoInputs.cache
+D:\Área de trabalho\Estudos\ProjetosTI\CursoCSharpOO\ExercAula71\obj\Debug\net7.0\ExercAula71.AssemblyInfo.cs
+D:\Área de trabalho\Estudos\ProjetosTI\CursoCSharpOO\ExercAula71\obj\Debug\net7.0\ExercAula71.csproj.CoreCompileInputs.cache
+D:\Área de trabalho\Estudos\ProjetosTI\CursoCSharpOO\ExercAula71\obj\Debug\net7.0\ExercAula71.dll
+D:\Área de trabalho\Estudos\ProjetosTI\CursoCSharpOO\ExercAula71\obj\Debug\net7.0\refint\ExercAula71.dll
+D:\Área de trabalho\Estudos\ProjetosTI\CursoCSharpOO\ExercAula71\obj\Debug\net7.0\ExercAula71.pdb
+D:\Área de trabalho\Estudos\ProjetosTI\CursoCSharpOO\ExercAula71\obj\Debug\net7.0\ExercAula71.genruntimeconfig.cache
+D:\Área de trabalho\Estudos\ProjetosTI\CursoCSharpOO\ExercAula71\obj\Debug\net7.0\ref\ExercAula71.dll

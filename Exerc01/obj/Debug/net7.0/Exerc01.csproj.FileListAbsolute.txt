@@ -1,0 +1,15 @@
+D:\Área de trabalho\Estudos\ProjetosTI\CursoCSharpOO\Exerc01\bin\Debug\net7.0\Exerc01.exe
+D:\Área de trabalho\Estudos\ProjetosTI\CursoCSharpOO\Exerc01\bin\Debug\net7.0\Exerc01.deps.json
+D:\Área de trabalho\Estudos\ProjetosTI\CursoCSharpOO\Exerc01\bin\Debug\net7.0\Exerc01.runtimeconfig.json
+D:\Área de trabalho\Estudos\ProjetosTI\CursoCSharpOO\Exerc01\bin\Debug\net7.0\Exerc01.dll
+D:\Área de trabalho\Estudos\ProjetosTI\CursoCSharpOO\Exerc01\bin\Debug\net7.0\Exerc01.pdb
+D:\Área de trabalho\Estudos\ProjetosTI\CursoCSharpOO\Exerc01\obj\Debug\net7.0\Exerc01.csproj.AssemblyReference.cache
+D:\Área de trabalho\Estudos\ProjetosTI\CursoCSharpOO\Exerc01\obj\Debug\net7.0\Exerc01.GeneratedMSBuildEditorConfig.editorconfig
+D:\Área de trabalho\Estudos\ProjetosTI\CursoCSharpOO\Exerc01\obj\Debug\net7.0\Exerc01.AssemblyInfoInputs.cache
+D:\Área de trabalho\Estudos\ProjetosTI\CursoCSharpOO\Exerc01\obj\Debug\net7.0\Exerc01.AssemblyInfo.cs
+D:\Área de trabalho\Estudos\ProjetosTI\CursoCSharpOO\Exerc01\obj\Debug\net7.0\Exerc01.csproj.CoreCompileInputs.cache
+D:\Área de trabalho\Estudos\ProjetosTI\CursoCSharpOO\Exerc01\obj\Debug\net7.0\Exerc01.dll
+D:\Área de trabalho\Estudos\ProjetosTI\CursoCSharpOO\Exerc01\obj\Debug\net7.0\refint\Exerc01.dll
+D:\Área de trabalho\Estudos\ProjetosTI\CursoCSharpOO\Exerc01\obj\Debug\net7.0\Exerc01.pdb
+D:\Área de trabalho\Estudos\ProjetosTI\CursoCSharpOO\Exerc01\obj\Debug\net7.0\Exerc01.genruntimeconfig.cache
+D:\Área de trabalho\Estudos\ProjetosTI\CursoCSharpOO\Exerc01\obj\Debug\net7.0\ref\Exerc01.dll
