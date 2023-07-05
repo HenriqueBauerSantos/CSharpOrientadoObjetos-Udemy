@@ -1,4 +1,6 @@
 ﻿
+using System;
+
 namespace tabuleiro
 {
     class Posicao
@@ -23,6 +25,11 @@ namespace tabuleiro
             return linha
                 +", "
                 +coluna;
+        }
+
+        internal Posicao ToPosicao()
+        {
+            throw new NotImplementedException();
         }
     }
 }
