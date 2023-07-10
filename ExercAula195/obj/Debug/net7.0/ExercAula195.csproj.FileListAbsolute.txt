@@ -1,0 +1,15 @@
+D:\Área de trabalho\Estudos\ProjetosTI\CSharpOrientadoObjeto\ExercAula195\bin\Debug\net7.0\ExercAula195.exe
+D:\Área de trabalho\Estudos\ProjetosTI\CSharpOrientadoObjeto\ExercAula195\bin\Debug\net7.0\ExercAula195.deps.json
+D:\Área de trabalho\Estudos\ProjetosTI\CSharpOrientadoObjeto\ExercAula195\bin\Debug\net7.0\ExercAula195.runtimeconfig.json
+D:\Área de trabalho\Estudos\ProjetosTI\CSharpOrientadoObjeto\ExercAula195\bin\Debug\net7.0\ExercAula195.dll
+D:\Área de trabalho\Estudos\ProjetosTI\CSharpOrientadoObjeto\ExercAula195\bin\Debug\net7.0\ExercAula195.pdb
+D:\Área de trabalho\Estudos\ProjetosTI\CSharpOrientadoObjeto\ExercAula195\obj\Debug\net7.0\ExercAula195.csproj.AssemblyReference.cache
+D:\Área de trabalho\Estudos\ProjetosTI\CSharpOrientadoObjeto\ExercAula195\obj\Debug\net7.0\ExercAula195.GeneratedMSBuildEditorConfig.editorconfig
+D:\Área de trabalho\Estudos\ProjetosTI\CSharpOrientadoObjeto\ExercAula195\obj\Debug\net7.0\ExercAula195.AssemblyInfoInputs.cache
+D:\Área de trabalho\Estudos\ProjetosTI\CSharpOrientadoObjeto\ExercAula195\obj\Debug\net7.0\ExercAula195.AssemblyInfo.cs
+D:\Área de trabalho\Estudos\ProjetosTI\CSharpOrientadoObjeto\ExercAula195\obj\Debug\net7.0\ExercAula195.csproj.CoreCompileInputs.cache
+D:\Área de trabalho\Estudos\ProjetosTI\CSharpOrientadoObjeto\ExercAula195\obj\Debug\net7.0\ExercAula195.dll
+D:\Área de trabalho\Estudos\ProjetosTI\CSharpOrientadoObjeto\ExercAula195\obj\Debug\net7.0\refint\ExercAula195.dll
+D:\Área de trabalho\Estudos\ProjetosTI\CSharpOrientadoObjeto\ExercAula195\obj\Debug\net7.0\ExercAula195.pdb
+D:\Área de trabalho\Estudos\ProjetosTI\CSharpOrientadoObjeto\ExercAula195\obj\Debug\net7.0\ExercAula195.genruntimeconfig.cache
+D:\Área de trabalho\Estudos\ProjetosTI\CSharpOrientadoObjeto\ExercAula195\obj\Debug\net7.0\ref\ExercAula195.dll

@@ -1,0 +1,15 @@
+D:\Área de trabalho\Estudos\ProjetosTI\CSharpOrientadoObjeto\ExercAula203\bin\Debug\net7.0\ExercAula203.exe
+D:\Área de trabalho\Estudos\ProjetosTI\CSharpOrientadoObjeto\ExercAula203\bin\Debug\net7.0\ExercAula203.deps.json
+D:\Área de trabalho\Estudos\ProjetosTI\CSharpOrientadoObjeto\ExercAula203\bin\Debug\net7.0\ExercAula203.runtimeconfig.json
+D:\Área de trabalho\Estudos\ProjetosTI\CSharpOrientadoObjeto\ExercAula203\bin\Debug\net7.0\ExercAula203.dll
+D:\Área de trabalho\Estudos\ProjetosTI\CSharpOrientadoObjeto\ExercAula203\bin\Debug\net7.0\ExercAula203.pdb
+D:\Área de trabalho\Estudos\ProjetosTI\CSharpOrientadoObjeto\ExercAula203\obj\Debug\net7.0\ExercAula203.csproj.AssemblyReference.cache
+D:\Área de trabalho\Estudos\ProjetosTI\CSharpOrientadoObjeto\ExercAula203\obj\Debug\net7.0\ExercAula203.GeneratedMSBuildEditorConfig.editorconfig
+D:\Área de trabalho\Estudos\ProjetosTI\CSharpOrientadoObjeto\ExercAula203\obj\Debug\net7.0\ExercAula203.AssemblyInfoInputs.cache
+D:\Área de trabalho\Estudos\ProjetosTI\CSharpOrientadoObjeto\ExercAula203\obj\Debug\net7.0\ExercAula203.AssemblyInfo.cs
+D:\Área de trabalho\Estudos\ProjetosTI\CSharpOrientadoObjeto\ExercAula203\obj\Debug\net7.0\ExercAula203.csproj.CoreCompileInputs.cache
+D:\Área de trabalho\Estudos\ProjetosTI\CSharpOrientadoObjeto\ExercAula203\obj\Debug\net7.0\ExercAula203.dll
+D:\Área de trabalho\Estudos\ProjetosTI\CSharpOrientadoObjeto\ExercAula203\obj\Debug\net7.0\refint\ExercAula203.dll
+D:\Área de trabalho\Estudos\ProjetosTI\CSharpOrientadoObjeto\ExercAula203\obj\Debug\net7.0\ExercAula203.pdb
+D:\Área de trabalho\Estudos\ProjetosTI\CSharpOrientadoObjeto\ExercAula203\obj\Debug\net7.0\ExercAula203.genruntimeconfig.cache
+D:\Área de trabalho\Estudos\ProjetosTI\CSharpOrientadoObjeto\ExercAula203\obj\Debug\net7.0\ref\ExercAula203.dll
